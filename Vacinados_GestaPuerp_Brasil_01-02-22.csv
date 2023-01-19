@@ -1,0 +1,791 @@
+vaccine_application_date,dose_vaccine,n_cases
+1/20/1989,1a dose,1
+10/27/2012,2a dose ou unica,1
+8/18/2019,1a dose,1
+3/23/2020,1a dose,103
+1/1/2021,1a dose,1
+1/3/2021,1o reforco,2
+1/18/2021,1a dose,1
+1/20/2021,1a dose,2
+1/20/2021,2a dose ou unica,1
+1/21/2021,1a dose,7
+1/26/2021,1a dose,3
+1/27/2021,1a dose,1
+1/28/2021,1a dose,2
+1/29/2021,1a dose,3
+1/29/2021,2a dose ou unica,1
+1/30/2021,1a dose,2
+1/31/2021,1a dose,1
+2/1/2021,1a dose,2
+2/2/2021,1a dose,3
+2/3/2021,1a dose,1
+2/4/2021,1a dose,1
+2/5/2021,1a dose,2
+2/6/2021,1a dose,4
+2/7/2021,1a dose,4
+2/8/2021,1a dose,3
+2/9/2021,1a dose,3
+2/9/2021,2a dose ou unica,1
+2/10/2021,1a dose,4
+2/11/2021,1a dose,3
+2/11/2021,2a dose ou unica,2
+2/12/2021,2a dose ou unica,2
+2/13/2021,2a dose ou unica,1
+2/14/2021,1a dose,2
+2/15/2021,1a dose,1
+2/15/2021,2a dose ou unica,2
+2/16/2021,1a dose,6
+2/17/2021,1a dose,3
+2/17/2021,2a dose ou unica,1
+2/18/2021,2a dose ou unica,2
+2/19/2021,1a dose,1
+2/19/2021,2a dose ou unica,1
+2/20/2021,1a dose,5
+2/20/2021,2a dose ou unica,1
+2/21/2021,2a dose ou unica,1
+2/22/2021,1a dose,1
+2/22/2021,2a dose ou unica,1
+2/24/2021,1a dose,1
+2/28/2021,1a dose,1
+2/28/2021,2a dose ou unica,1
+3/1/2021,1a dose,1
+3/2/2021,1a dose,15
+3/3/2021,1a dose,3
+3/3/2021,2a dose ou unica,1
+3/4/2021,2a dose ou unica,1
+3/5/2021,1a dose,1
+3/5/2021,2a dose ou unica,1
+3/6/2021,1a dose,2
+3/8/2021,1a dose,7
+3/9/2021,1a dose,2
+3/10/2021,1a dose,2
+3/11/2021,1a dose,1
+3/14/2021,1a dose,1
+3/14/2021,2a dose ou unica,1
+3/15/2021,1a dose,5
+3/16/2021,1a dose,3
+3/17/2021,2a dose ou unica,1
+3/18/2021,1a dose,11
+3/19/2021,1a dose,1
+3/20/2021,1a dose,1
+3/21/2021,1a dose,3
+3/22/2021,1a dose,5
+3/22/2021,2a dose ou unica,1
+3/23/2021,1a dose,5
+3/24/2021,1a dose,8
+3/24/2021,2a dose ou unica,1
+3/25/2021,1a dose,7
+3/25/2021,2a dose ou unica,2
+3/26/2021,1a dose,8
+3/26/2021,2a dose ou unica,1
+3/27/2021,1a dose,3
+3/28/2021,1a dose,3
+3/29/2021,1a dose,4
+3/29/2021,2a dose ou unica,1
+3/30/2021,1a dose,9
+3/30/2021,2a dose ou unica,2
+3/31/2021,1a dose,11
+4/1/2021,1a dose,4
+4/2/2021,1a dose,3
+4/3/2021,1a dose,1
+4/4/2021,1a dose,2
+4/4/2021,2a dose ou unica,1
+4/5/2021,1a dose,9
+4/6/2021,1a dose,49
+4/7/2021,1a dose,91
+4/7/2021,2a dose ou unica,2
+4/8/2021,1a dose,61
+4/8/2021,2a dose ou unica,1
+4/9/2021,1a dose,7
+4/9/2021,2a dose ou unica,1
+4/10/2021,1a dose,8
+4/11/2021,1a dose,2
+4/12/2021,1a dose,7
+4/12/2021,2a dose ou unica,4
+4/13/2021,1a dose,24
+4/13/2021,2a dose ou unica,1
+4/14/2021,1a dose,24
+4/14/2021,2a dose ou unica,1
+4/15/2021,1a dose,24
+4/15/2021,2a dose ou unica,2
+4/16/2021,1a dose,11
+4/16/2021,2a dose ou unica,1
+4/17/2021,1a dose,3
+4/17/2021,2a dose ou unica,1
+4/18/2021,1a dose,3
+4/19/2021,1a dose,63
+4/19/2021,2a dose ou unica,1
+4/20/2021,1a dose,31
+4/20/2021,2a dose ou unica,3
+4/21/2021,1a dose,12
+4/21/2021,2a dose ou unica,2
+4/22/2021,1a dose,34
+4/22/2021,2a dose ou unica,2
+4/23/2021,1a dose,20
+4/24/2021,1a dose,20
+4/25/2021,1a dose,17
+4/25/2021,2a dose ou unica,2
+4/26/2021,1a dose,44
+4/26/2021,2a dose ou unica,1
+4/27/2021,1a dose,27
+4/27/2021,2a dose ou unica,8
+4/28/2021,1a dose,218
+4/28/2021,2a dose ou unica,2
+4/29/2021,1a dose,53
+4/29/2021,2a dose ou unica,16
+4/30/2021,1a dose,303
+4/30/2021,2a dose ou unica,44
+5/1/2021,1a dose,331
+5/2/2021,1a dose,146
+5/3/2021,1a dose,708
+5/3/2021,2a dose ou unica,26
+5/4/2021,1a dose,1781
+5/4/2021,2a dose ou unica,27
+5/5/2021,1a dose,4249
+5/5/2021,2a dose ou unica,35
+5/6/2021,1a dose,7900
+5/6/2021,2a dose ou unica,23
+5/7/2021,1a dose,11683
+5/7/2021,2a dose ou unica,21
+5/8/2021,1a dose,8931
+5/8/2021,2a dose ou unica,15
+5/9/2021,1a dose,1211
+5/10/2021,1a dose,17690
+5/10/2021,2a dose ou unica,42
+5/11/2021,1a dose,8736
+5/11/2021,2a dose ou unica,24
+5/12/2021,1a dose,5135
+5/12/2021,2a dose ou unica,7
+5/13/2021,1a dose,1733
+5/13/2021,2a dose ou unica,6
+5/14/2021,1a dose,1439
+5/14/2021,2a dose ou unica,14
+5/15/2021,1a dose,2070
+5/15/2021,2a dose ou unica,11
+5/16/2021,1a dose,1520
+5/16/2021,2a dose ou unica,4
+5/17/2021,1a dose,4710
+5/17/2021,2a dose ou unica,27
+5/18/2021,1a dose,6821
+5/18/2021,2a dose ou unica,23
+5/19/2021,1a dose,7513
+5/19/2021,2a dose ou unica,21
+5/20/2021,1a dose,8224
+5/20/2021,2a dose ou unica,44
+5/21/2021,1a dose,8384
+5/21/2021,2a dose ou unica,43
+5/22/2021,1a dose,2604
+5/22/2021,2a dose ou unica,6
+5/23/2021,1a dose,250
+5/24/2021,1a dose,4009
+5/24/2021,2a dose ou unica,36
+5/25/2021,1a dose,8210
+5/25/2021,2a dose ou unica,26
+5/26/2021,1a dose,9864
+5/26/2021,2a dose ou unica,61
+5/27/2021,1a dose,11787
+5/27/2021,2a dose ou unica,250
+5/28/2021,1a dose,9431
+5/28/2021,2a dose ou unica,176
+5/29/2021,1a dose,1978
+5/29/2021,2a dose ou unica,19
+5/30/2021,1a dose,250
+5/30/2021,2a dose ou unica,3
+5/31/2021,1a dose,4927
+5/31/2021,2a dose ou unica,61
+6/1/2021,1a dose,9538
+6/1/2021,2a dose ou unica,335
+6/2/2021,1a dose,10685
+6/2/2021,2a dose ou unica,309
+6/3/2021,1a dose,2665
+6/3/2021,2a dose ou unica,15
+6/4/2021,1a dose,5130
+6/4/2021,2a dose ou unica,176
+6/5/2021,1a dose,1769
+6/5/2021,2a dose ou unica,66
+6/6/2021,1a dose,420
+6/6/2021,2a dose ou unica,13
+6/7/2021,1a dose,9276
+6/7/2021,2a dose ou unica,351
+6/8/2021,1a dose,11928
+6/8/2021,1o reforco,1
+6/8/2021,2a dose ou unica,410
+6/9/2021,1a dose,16369
+6/9/2021,2a dose ou unica,504
+6/10/2021,1a dose,18089
+6/10/2021,2a dose ou unica,722
+6/11/2021,1a dose,20020
+6/11/2021,2a dose ou unica,795
+6/12/2021,1a dose,6774
+6/12/2021,2a dose ou unica,111
+6/13/2021,1a dose,1109
+6/13/2021,2a dose ou unica,13
+6/14/2021,1a dose,16039
+6/14/2021,2a dose ou unica,921
+6/15/2021,1a dose,23022
+6/15/2021,2a dose ou unica,1826
+6/16/2021,1a dose,27914
+6/16/2021,2a dose ou unica,1522
+6/17/2021,1a dose,27881
+6/17/2021,2a dose ou unica,1861
+6/18/2021,1a dose,23904
+6/18/2021,1o reforco,1
+6/18/2021,2a dose ou unica,2480
+6/19/2021,1a dose,9206
+6/19/2021,2a dose ou unica,491
+6/20/2021,1a dose,1118
+6/20/2021,2a dose ou unica,37
+6/21/2021,1a dose,21623
+6/21/2021,2a dose ou unica,1700
+6/22/2021,1a dose,31148
+6/22/2021,1o reforco,1
+6/22/2021,2a dose ou unica,1729
+6/23/2021,1a dose,26510
+6/23/2021,2a dose ou unica,2061
+6/24/2021,1a dose,21273
+6/24/2021,2a dose ou unica,1685
+6/25/2021,1a dose,20462
+6/25/2021,2a dose ou unica,1899
+6/26/2021,1a dose,6350
+6/26/2021,2a dose ou unica,243
+6/27/2021,1a dose,944
+6/27/2021,2a dose ou unica,26
+6/28/2021,1a dose,19894
+6/28/2021,2a dose ou unica,2769
+6/29/2021,1a dose,18443
+6/29/2021,2a dose ou unica,2293
+6/30/2021,1a dose,18527
+6/30/2021,2a dose ou unica,2997
+7/1/2021,1a dose,15806
+7/1/2021,2a dose ou unica,2723
+7/2/2021,1a dose,14273
+7/2/2021,2a dose ou unica,3551
+7/3/2021,1a dose,4395
+7/3/2021,2a dose ou unica,398
+7/4/2021,1a dose,436
+7/4/2021,2a dose ou unica,37
+7/5/2021,1a dose,14914
+7/5/2021,2a dose ou unica,3110
+7/6/2021,1a dose,13616
+7/6/2021,2a dose ou unica,3433
+7/7/2021,1a dose,13346
+7/7/2021,2a dose ou unica,5518
+7/8/2021,1a dose,11023
+7/8/2021,2a dose ou unica,7912
+7/9/2021,1a dose,9571
+7/9/2021,2a dose ou unica,3286
+7/10/2021,1a dose,2544
+7/10/2021,2a dose ou unica,758
+7/11/2021,1a dose,434
+7/11/2021,2a dose ou unica,96
+7/12/2021,1a dose,8280
+7/12/2021,2a dose ou unica,6414
+7/13/2021,1a dose,9830
+7/13/2021,2a dose ou unica,5845
+7/14/2021,1a dose,11238
+7/14/2021,2a dose ou unica,6818
+7/15/2021,1a dose,9375
+7/15/2021,2a dose ou unica,6783
+7/16/2021,1a dose,7000
+7/16/2021,2a dose ou unica,6260
+7/17/2021,1a dose,1591
+7/17/2021,2a dose ou unica,2063
+7/18/2021,1a dose,254
+7/18/2021,2a dose ou unica,95
+7/19/2021,1a dose,5420
+7/19/2021,2a dose ou unica,7426
+7/20/2021,1a dose,6272
+7/20/2021,2a dose ou unica,6530
+7/21/2021,1a dose,6687
+7/21/2021,2a dose ou unica,6969
+7/22/2021,1a dose,7453
+7/22/2021,2a dose ou unica,5895
+7/23/2021,1a dose,8052
+7/23/2021,2a dose ou unica,5891
+7/24/2021,1a dose,1706
+7/24/2021,2a dose ou unica,1439
+7/25/2021,1a dose,308
+7/25/2021,2a dose ou unica,303
+7/26/2021,1a dose,6379
+7/26/2021,2a dose ou unica,6106
+7/27/2021,1a dose,6880
+7/27/2021,2a dose ou unica,6840
+7/28/2021,1a dose,6540
+7/28/2021,2a dose ou unica,6547
+7/29/2021,1a dose,5922
+7/29/2021,2a dose ou unica,5967
+7/30/2021,1a dose,6968
+7/30/2021,2a dose ou unica,8030
+7/31/2021,1a dose,1785
+7/31/2021,2a dose ou unica,1754
+8/1/2021,1a dose,230
+8/1/2021,2a dose ou unica,652
+8/2/2021,1a dose,5882
+8/2/2021,1o reforco,1
+8/2/2021,2a dose ou unica,7850
+8/3/2021,1a dose,7074
+8/3/2021,2a dose ou unica,9857
+8/4/2021,1a dose,7193
+8/4/2021,1o reforco,1
+8/4/2021,2a dose ou unica,8242
+8/5/2021,1a dose,6907
+8/5/2021,2a dose ou unica,7576
+8/6/2021,1a dose,5633
+8/6/2021,1o reforco,1
+8/6/2021,2a dose ou unica,6673
+8/7/2021,1a dose,1357
+8/7/2021,2a dose ou unica,1746
+8/8/2021,1a dose,223
+8/8/2021,2a dose ou unica,255
+8/9/2021,1a dose,5009
+8/9/2021,2a dose ou unica,8465
+8/10/2021,1a dose,5576
+8/10/2021,2a dose ou unica,8004
+8/11/2021,1a dose,6226
+8/11/2021,1o reforco,2
+8/11/2021,2a dose ou unica,8742
+8/12/2021,1a dose,5416
+8/12/2021,1o reforco,1
+8/12/2021,2a dose ou unica,8491
+8/13/2021,1a dose,4818
+8/13/2021,1o reforco,1
+8/13/2021,2a dose ou unica,7756
+8/14/2021,1a dose,1686
+8/14/2021,1o reforco,1
+8/14/2021,2a dose ou unica,2274
+8/15/2021,1a dose,293
+8/15/2021,2a dose ou unica,461
+8/16/2021,1a dose,4103
+8/16/2021,2a dose ou unica,6405
+8/17/2021,1a dose,4917
+8/17/2021,2a dose ou unica,7938
+8/18/2021,1a dose,5518
+8/18/2021,1o reforco,1
+8/18/2021,2a dose ou unica,9165
+8/19/2021,1a dose,5484
+8/19/2021,2a dose ou unica,8303
+8/20/2021,1a dose,4277
+8/20/2021,2a dose ou unica,8529
+8/21/2021,1a dose,1588
+8/21/2021,2a dose ou unica,2223
+8/22/2021,1a dose,298
+8/22/2021,2a dose ou unica,544
+8/23/2021,1a dose,3706
+8/23/2021,2a dose ou unica,7417
+8/24/2021,1a dose,4056
+8/24/2021,2a dose ou unica,9059
+8/25/2021,1a dose,4272
+8/25/2021,2a dose ou unica,8840
+8/26/2021,1a dose,3982
+8/26/2021,1o reforco,1
+8/26/2021,2a dose ou unica,7799
+8/27/2021,1a dose,3579
+8/27/2021,2a dose ou unica,8721
+8/28/2021,1a dose,985
+8/28/2021,2a dose ou unica,2709
+8/29/2021,1a dose,291
+8/29/2021,2a dose ou unica,449
+8/30/2021,1a dose,2741
+8/30/2021,1o reforco,1
+8/30/2021,2a dose ou unica,9104
+8/31/2021,1a dose,3052
+8/31/2021,2a dose ou unica,10026
+9/1/2021,1a dose,2951
+9/1/2021,2a dose ou unica,10473
+9/2/2021,1a dose,2769
+9/2/2021,1o reforco,1
+9/2/2021,2a dose ou unica,11199
+9/3/2021,1a dose,2857
+9/3/2021,1o reforco,3
+9/3/2021,2a dose ou unica,12215
+9/4/2021,1a dose,659
+9/4/2021,2a dose ou unica,3967
+9/5/2021,1a dose,155
+9/5/2021,2a dose ou unica,1613
+9/6/2021,1a dose,936
+9/6/2021,1o reforco,1
+9/6/2021,2a dose ou unica,5011
+9/7/2021,1a dose,141
+9/7/2021,2a dose ou unica,719
+9/8/2021,1a dose,2189
+9/8/2021,1o reforco,1
+9/8/2021,2a dose ou unica,16012
+9/9/2021,1a dose,2635
+9/9/2021,2a dose ou unica,19552
+9/10/2021,1a dose,2582
+9/10/2021,1o reforco,3
+9/10/2021,2a dose ou unica,17467
+9/11/2021,1a dose,1427
+9/11/2021,1o reforco,2
+9/11/2021,2a dose ou unica,5588
+9/12/2021,1a dose,206
+9/12/2021,2a dose ou unica,1965
+9/13/2021,1a dose,2226
+9/13/2021,1o reforco,5
+9/13/2021,2a dose ou unica,16106
+9/14/2021,1a dose,2449
+9/14/2021,1o reforco,2
+9/14/2021,2a dose ou unica,17417
+9/15/2021,1a dose,2736
+9/15/2021,1o reforco,3
+9/15/2021,2a dose ou unica,15892
+9/16/2021,1a dose,2490
+9/16/2021,1o reforco,5
+9/16/2021,2a dose ou unica,15271
+9/17/2021,1a dose,2127
+9/17/2021,1o reforco,9
+9/17/2021,2a dose ou unica,15204
+9/18/2021,1a dose,570
+9/18/2021,1o reforco,4
+9/18/2021,2a dose ou unica,3907
+9/19/2021,1a dose,179
+9/19/2021,2a dose ou unica,676
+9/20/2021,1a dose,1609
+9/20/2021,1o reforco,10
+9/20/2021,2a dose ou unica,12230
+9/21/2021,1a dose,2033
+9/21/2021,1o reforco,14
+9/21/2021,2a dose ou unica,14385
+9/22/2021,1a dose,2237
+9/22/2021,1o reforco,11
+9/22/2021,2a dose ou unica,12787
+9/23/2021,1a dose,2278
+9/23/2021,1o reforco,26
+9/23/2021,2a dose ou unica,13124
+9/24/2021,1a dose,1874
+9/24/2021,1o reforco,16
+9/24/2021,2a dose ou unica,10849
+9/25/2021,1a dose,814
+9/25/2021,1o reforco,7
+9/25/2021,2a dose ou unica,3902
+9/26/2021,1a dose,87
+9/26/2021,1o reforco,2
+9/26/2021,2a dose ou unica,1028
+9/27/2021,1a dose,1608
+9/27/2021,1o reforco,28
+9/27/2021,2a dose ou unica,9827
+9/28/2021,1a dose,1739
+9/28/2021,1o reforco,19
+9/28/2021,2a dose ou unica,11239
+9/29/2021,1a dose,1713
+9/29/2021,1o reforco,31
+9/29/2021,2a dose ou unica,10743
+9/30/2021,1a dose,1583
+9/30/2021,1o reforco,37
+9/30/2021,2a dose ou unica,9346
+10/1/2021,1a dose,1228
+10/1/2021,1o reforco,32
+10/1/2021,2a dose ou unica,7467
+10/2/2021,1a dose,606
+10/2/2021,1o reforco,7
+10/2/2021,2a dose ou unica,3109
+10/3/2021,1a dose,166
+10/3/2021,1o reforco,1
+10/3/2021,2a dose ou unica,368
+10/4/2021,1a dose,1095
+10/4/2021,1o reforco,22
+10/4/2021,2a dose ou unica,6575
+10/5/2021,1a dose,1347
+10/5/2021,1o reforco,29
+10/5/2021,2a dose ou unica,7644
+10/6/2021,1a dose,1418
+10/6/2021,1o reforco,44
+10/6/2021,2a dose ou unica,7627
+10/7/2021,1a dose,1219
+10/7/2021,1o reforco,53
+10/7/2021,2a dose ou unica,6855
+10/8/2021,1a dose,1100
+10/8/2021,1o reforco,44
+10/8/2021,2a dose ou unica,5969
+10/9/2021,1a dose,335
+10/9/2021,1o reforco,14
+10/9/2021,2a dose ou unica,1640
+10/10/2021,1a dose,83
+10/10/2021,1o reforco,2
+10/10/2021,2a dose ou unica,273
+10/11/2021,1a dose,349
+10/11/2021,1o reforco,20
+10/11/2021,2a dose ou unica,1806
+10/12/2021,1a dose,43
+10/12/2021,1o reforco,8
+10/12/2021,2a dose ou unica,288
+10/13/2021,1a dose,1004
+10/13/2021,1o reforco,73
+10/13/2021,2a dose ou unica,6163
+10/14/2021,1a dose,1181
+10/14/2021,1o reforco,90
+10/14/2021,2a dose ou unica,6908
+10/15/2021,1a dose,1032
+10/15/2021,1o reforco,81
+10/15/2021,2a dose ou unica,5611
+10/16/2021,1a dose,335
+10/16/2021,1o reforco,29
+10/16/2021,2a dose ou unica,2048
+10/17/2021,1a dose,82
+10/17/2021,1o reforco,1
+10/17/2021,2a dose ou unica,382
+10/18/2021,1a dose,767
+10/18/2021,1o reforco,46
+10/18/2021,2a dose ou unica,4685
+10/19/2021,1a dose,921
+10/19/2021,1o reforco,71
+10/19/2021,2a dose ou unica,5636
+10/20/2021,1a dose,968
+10/20/2021,1o reforco,71
+10/20/2021,2a dose ou unica,5385
+10/21/2021,1a dose,1048
+10/21/2021,1o reforco,72
+10/21/2021,2a dose ou unica,5571
+10/22/2021,1a dose,992
+10/22/2021,1o reforco,72
+10/22/2021,2a dose ou unica,4811
+10/23/2021,1a dose,269
+10/23/2021,1o reforco,32
+10/23/2021,2a dose ou unica,1365
+10/24/2021,1a dose,110
+10/24/2021,1o reforco,2
+10/24/2021,2a dose ou unica,263
+10/25/2021,1a dose,777
+10/25/2021,1o reforco,55
+10/25/2021,2a dose ou unica,4368
+10/26/2021,1a dose,958
+10/26/2021,1o reforco,52
+10/26/2021,2a dose ou unica,4979
+10/27/2021,1a dose,1015
+10/27/2021,1o reforco,49
+10/27/2021,2a dose ou unica,5118
+10/28/2021,1a dose,800
+10/28/2021,1o reforco,55
+10/28/2021,2a dose ou unica,4039
+10/29/2021,1a dose,556
+10/29/2021,1o reforco,44
+10/29/2021,2a dose ou unica,3309
+10/30/2021,1a dose,168
+10/30/2021,1o reforco,22
+10/30/2021,2a dose ou unica,984
+10/31/2021,1a dose,57
+10/31/2021,1o reforco,7
+10/31/2021,2a dose ou unica,314
+11/1/2021,1a dose,152
+11/1/2021,1o reforco,14
+11/1/2021,2a dose ou unica,738
+11/2/2021,1a dose,76
+11/2/2021,1o reforco,8
+11/2/2021,2a dose ou unica,370
+11/3/2021,1a dose,757
+11/3/2021,1o reforco,52
+11/3/2021,2a dose ou unica,4470
+11/4/2021,1a dose,783
+11/4/2021,1o reforco,63
+11/4/2021,2a dose ou unica,4414
+11/5/2021,1a dose,710
+11/5/2021,1o reforco,101
+11/5/2021,2a dose ou unica,4010
+11/6/2021,1a dose,226
+11/6/2021,1o reforco,55
+11/6/2021,2a dose ou unica,977
+11/7/2021,1a dose,65
+11/7/2021,1o reforco,4
+11/7/2021,2a dose ou unica,205
+11/8/2021,1a dose,663
+11/8/2021,1o reforco,44
+11/8/2021,2a dose ou unica,3180
+11/9/2021,1a dose,770
+11/9/2021,1o reforco,60
+11/9/2021,2a dose ou unica,3593
+11/10/2021,1a dose,825
+11/10/2021,1o reforco,63
+11/10/2021,2a dose ou unica,3670
+11/11/2021,1a dose,642
+11/11/2021,1o reforco,70
+11/11/2021,2a dose ou unica,3522
+11/12/2021,1a dose,585
+11/12/2021,1o reforco,59
+11/12/2021,2a dose ou unica,3088
+11/13/2021,1a dose,156
+11/13/2021,1o reforco,12
+11/13/2021,2a dose ou unica,776
+11/14/2021,1a dose,35
+11/14/2021,1o reforco,11
+11/14/2021,2a dose ou unica,136
+11/15/2021,1a dose,28
+11/15/2021,1o reforco,18
+11/15/2021,2a dose ou unica,201
+11/16/2021,1a dose,619
+11/16/2021,1o reforco,76
+11/16/2021,2a dose ou unica,3262
+11/17/2021,1a dose,618
+11/17/2021,1o reforco,118
+11/17/2021,2a dose ou unica,3424
+11/18/2021,1a dose,588
+11/18/2021,1o reforco,168
+11/18/2021,2a dose ou unica,3040
+11/19/2021,1a dose,496
+11/19/2021,1o reforco,108
+11/19/2021,2a dose ou unica,2634
+11/20/2021,1a dose,242
+11/20/2021,1o reforco,201
+11/20/2021,2a dose ou unica,1169
+11/21/2021,1a dose,22
+11/21/2021,1o reforco,24
+11/21/2021,2a dose ou unica,141
+11/22/2021,1a dose,446
+11/22/2021,1o reforco,206
+11/22/2021,2a dose ou unica,2549
+11/23/2021,1a dose,492
+11/23/2021,1o reforco,279
+11/23/2021,2a dose ou unica,2601
+11/24/2021,1a dose,244
+11/24/2021,1o reforco,111
+11/24/2021,2a dose ou unica,1277
+11/25/2021,1a dose,574
+11/25/2021,1o reforco,284
+11/25/2021,2a dose ou unica,2499
+11/26/2021,1a dose,457
+11/26/2021,1o reforco,259
+11/26/2021,2a dose ou unica,2289
+11/27/2021,1a dose,141
+11/27/2021,1o reforco,90
+11/27/2021,2a dose ou unica,649
+11/28/2021,1a dose,14
+11/28/2021,1o reforco,18
+11/28/2021,2a dose ou unica,94
+11/29/2021,1a dose,375
+11/29/2021,1o reforco,228
+11/29/2021,2a dose ou unica,1893
+11/30/2021,1a dose,516
+11/30/2021,1o reforco,293
+11/30/2021,2a dose ou unica,2014
+12/1/2021,1a dose,379
+12/1/2021,1o reforco,320
+12/1/2021,2a dose ou unica,1723
+12/2/2021,1a dose,142
+12/2/2021,1o reforco,107
+12/2/2021,2a dose ou unica,733
+12/3/2021,1a dose,214
+12/3/2021,1o reforco,228
+12/3/2021,2a dose ou unica,955
+12/4/2021,1a dose,137
+12/4/2021,1o reforco,455
+12/4/2021,2a dose ou unica,507
+12/5/2021,1a dose,29
+12/5/2021,1o reforco,47
+12/5/2021,2a dose ou unica,75
+12/6/2021,1a dose,406
+12/6/2021,1o reforco,410
+12/6/2021,2a dose ou unica,1630
+12/7/2021,1a dose,464
+12/7/2021,1o reforco,1380
+12/7/2021,2a dose ou unica,1689
+12/7/2021,2o reforco,1
+12/8/2021,1a dose,294
+12/8/2021,1o reforco,458
+12/8/2021,2a dose ou unica,1057
+12/9/2021,1a dose,100
+12/9/2021,1o reforco,256
+12/9/2021,2a dose ou unica,486
+12/10/2021,1a dose,144
+12/10/2021,1o reforco,457
+12/10/2021,2a dose ou unica,791
+12/11/2021,1a dose,32
+12/11/2021,1o reforco,154
+12/11/2021,2a dose ou unica,205
+12/12/2021,1a dose,14
+12/12/2021,1o reforco,40
+12/12/2021,2a dose ou unica,35
+12/13/2021,1a dose,131
+12/13/2021,1o reforco,576
+12/13/2021,2a dose ou unica,859
+12/14/2021,1a dose,187
+12/14/2021,1o reforco,1731
+12/14/2021,2a dose ou unica,912
+12/15/2021,1a dose,160
+12/15/2021,1o reforco,811
+12/15/2021,2a dose ou unica,903
+12/16/2021,1a dose,163
+12/16/2021,1o reforco,788
+12/16/2021,2a dose ou unica,863
+12/17/2021,1a dose,120
+12/17/2021,1o reforco,1543
+12/17/2021,2a dose ou unica,757
+12/18/2021,1a dose,26
+12/18/2021,1o reforco,259
+12/18/2021,2a dose ou unica,160
+12/19/2021,1a dose,5
+12/19/2021,1o reforco,77
+12/19/2021,2a dose ou unica,29
+12/20/2021,1a dose,122
+12/20/2021,1o reforco,1270
+12/20/2021,2a dose ou unica,640
+12/21/2021,1a dose,110
+12/21/2021,1o reforco,2053
+12/21/2021,2a dose ou unica,631
+12/22/2021,1a dose,94
+12/22/2021,1o reforco,2087
+12/22/2021,2a dose ou unica,574
+12/23/2021,1a dose,68
+12/23/2021,1o reforco,1446
+12/23/2021,2a dose ou unica,369
+12/24/2021,1a dose,1
+12/24/2021,1o reforco,126
+12/24/2021,2a dose ou unica,30
+12/25/2021,1a dose,3
+12/25/2021,1o reforco,7
+12/25/2021,2a dose ou unica,1
+12/26/2021,1o reforco,25
+12/26/2021,2a dose ou unica,4
+12/27/2021,1a dose,55
+12/27/2021,1o reforco,1917
+12/27/2021,2a dose ou unica,365
+12/28/2021,1a dose,71
+12/28/2021,1o reforco,2472
+12/28/2021,2a dose ou unica,525
+12/29/2021,1a dose,101
+12/29/2021,1o reforco,1717
+12/29/2021,2a dose ou unica,543
+12/30/2021,1a dose,76
+12/30/2021,1o reforco,1165
+12/30/2021,2a dose ou unica,333
+12/31/2021,1a dose,2
+12/31/2021,1o reforco,115
+12/31/2021,2a dose ou unica,15
+1/1/2022,1o reforco,9
+1/1/2022,2a dose ou unica,3
+1/2/2022,1o reforco,14
+1/2/2022,2a dose ou unica,3
+1/3/2022,1a dose,89
+1/3/2022,1o reforco,2297
+1/3/2022,2a dose ou unica,429
+1/4/2022,1a dose,125
+1/4/2022,1o reforco,3322
+1/4/2022,2a dose ou unica,581
+1/5/2022,1a dose,147
+1/5/2022,1o reforco,2326
+1/5/2022,2a dose ou unica,536
+1/6/2022,1a dose,127
+1/6/2022,1o reforco,2472
+1/6/2022,2a dose ou unica,582
+1/7/2022,1a dose,108
+1/7/2022,1o reforco,2341
+1/7/2022,2a dose ou unica,489
+1/8/2022,1a dose,25
+1/8/2022,1o reforco,537
+1/8/2022,2a dose ou unica,98
+1/9/2022,1a dose,6
+1/9/2022,1o reforco,99
+1/9/2022,2a dose ou unica,14
+1/10/2022,1a dose,144
+1/10/2022,1o reforco,4150
+1/10/2022,2a dose ou unica,558
+1/11/2022,1a dose,146
+1/11/2022,1o reforco,4134
+1/11/2022,2a dose ou unica,585
+1/12/2022,1a dose,128
+1/12/2022,1o reforco,2729
+1/12/2022,2a dose ou unica,500
+1/13/2022,1a dose,133
+1/13/2022,1o reforco,3684
+1/13/2022,2a dose ou unica,499
+1/14/2022,1a dose,17
+1/14/2022,1o reforco,594
+1/14/2022,2a dose ou unica,89
