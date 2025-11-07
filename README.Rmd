@@ -1,16 +1,7 @@
----
-title: "Left Behind in the Trials, Protected Later: Assessing the Impact of COVID-19 Vaccination on Maternal Mortality in Brazil"
-author: "OOBr"
-date: "2025-11-07"
-output: html_document
----
+What is the purpose of this repository?
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+This repository is intended to store the computational developments and R procedures related to the study "Left Behind in the Trials, Protected Later: Assessing the Impact of COVID-19 Vaccination on Maternal Mortality in Brazil".
 
-This repository is intended to store the computational developments and R procedures related to the study.
-
-## Data
+Data:
 
 The data are available in the Data directory of this repository, as well as the scripts used for their extraction and processing.
