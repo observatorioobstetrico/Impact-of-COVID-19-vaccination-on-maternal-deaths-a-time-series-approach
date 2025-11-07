@@ -4,4 +4,4 @@ This repository is intended to store the computational developments and R proced
 
 Data:
 
-The data are available in the Data directory of this repository, as well as the scripts used for their extraction and processing.
+The data are available in the Data directory of this repository, as well as the scripts used for their extraction and processing. The data considered in this study were extracted from the Base dos Dados, a non-governmental organization, and from the SIVEP-Gripe surveillance system.
